@@ -1,0 +1,26 @@
+[
+    {
+    id: "producto1",
+    nombre: "Laptop LG",
+    precio: 1500,
+    categoria: "PC",
+    numero: 1,
+    imagen: "./assets/lglaptop.jpg"
+    },
+    {
+    id: "producto2",
+    nombre: "Laptop Lenovo",
+    precio: 1200,
+    categoria: "PC",
+    numero: 2,
+    imagen: "./assets/laptop_lenovo.webp"
+    },
+    {
+    id: "producto3",
+    nombre: "Mouse Logitech",
+    precio: 500,
+    categoria: "Perífericos",
+    numero: 3,
+    imagen: "./assets/mouse_logitech.png"
+    }
+    ];
